@@ -4,7 +4,7 @@
 
 ## 1. OPIS GRY
 
-### Survival Game: The Nether Update to dwuwymiarowa gra survivalowa stworzona w bibliotece pygame. Gracz steruje postacią poruszającą się po otwartym świecie, walczącą z przeciwnikami, zdobywającą doświadczenie oraz ulepszenia. Gra zawiera dwa światy: Overworld oraz Nether.
+### Mine2DCraft to dwuwymiarowa gra survivalowa stworzona w bibliotece pygame. Gracz steruje postacią poruszającą się po otwartym świecie, walczącą z przeciwnikami, zdobywającą doświadczenie oraz ulepszenia. Gra zawiera dwa światy: Overworld oraz Nether.
 
 ---
 
